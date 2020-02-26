@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "I want to create something",
+      "description": "I want to learn React-Redux-Everything",
+      "userId": "101101510190625205918",
+      "id": 1
+    },
+    {
+      "title": "hello ",
+      "description": "how are you!",
+      "userId": "101101510190625205918",
+      "id": 2
+    }
+  ]
+}
